@@ -1713,3 +1713,7 @@ details[open] #close{display:block;}
     transform: translateY(0);
   }
 }
+
+.control-group{
+  margin-bottom: 2px;
+}
